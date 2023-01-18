@@ -1,0 +1,1 @@
+web: gunicorn wheatherapp.wsgl --log-file -
